@@ -1,0 +1,34 @@
+PODS:
+  - AnyCodable-FlightSchool (0.4.0)
+  - Kingfisher (6.0.1)
+  - RxCocoa (6.0.0):
+    - RxRelay (= 6.0.0)
+    - RxSwift (= 6.0.0)
+  - RxRelay (6.0.0):
+    - RxSwift (= 6.0.0)
+  - RxSwift (6.0.0)
+
+DEPENDENCIES:
+  - AnyCodable-FlightSchool (~> 0.4.0)
+  - Kingfisher
+  - RxCocoa
+  - RxSwift
+
+SPEC REPOS:
+  trunk:
+    - AnyCodable-FlightSchool
+    - Kingfisher
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+
+SPEC CHECKSUMS:
+  AnyCodable-FlightSchool: 9bf42632b5256c78710e2f4fb18ce78e89180883
+  Kingfisher: adde87a4f74f6a3845395769354efff593581740
+  RxCocoa: 3f79328fafa3645b34600f37c31e64c73ae3a80e
+  RxRelay: 8d593be109c06ea850df027351beba614b012ffb
+  RxSwift: c14e798c59b9f6e9a2df8fd235602e85cc044295
+
+PODFILE CHECKSUM: bbb60f9fd68de5b2fb7a579012ca08859ac311c0
+
+COCOAPODS: 1.10.0

@@ -1,0 +1,6 @@
+framework module Pods_MoviesIOSNetworkingTests {
+  umbrella header "Pods-MoviesIOSNetworkingTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
